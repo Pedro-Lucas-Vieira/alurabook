@@ -40,9 +40,19 @@ Durante o desenvolvimento, foram trabalhados conceitos como:
 
 ---
 
+## 🌐 Deploy
+
+O projeto está disponível online:
+
+🔗 **[Acessar AluraBooks](COLE_AQUI_O_LINK_DO_DEPLOY)**
+
+> 💡 Substitua `COLE_AQUI_O_LINK_DO_DEPLOY` pelo endereço do seu projeto publicado.
+
+---
+
 ## 📱 Responsividade
 
-O projeto foi desenvolvido utilizando a abordagem **Mobile First**, permitindo que a interface se adapte a diferentes dispositivos, como:
+O projeto foi desenvolvido utilizando a abordagem **Mobile First**, permitindo que a interface se adapte a diferentes dispositivos:
 
 * 📱 Celulares
 * 📱 Tablets
@@ -62,7 +72,7 @@ O projeto foi desenvolvido utilizando a abordagem **Mobile First**, permitindo q
 
 Este projeto foi desenvolvido como parte dos estudos de **desenvolvimento web**, com o objetivo de praticar:
 
-**HTML → CSS → Responsividade → Mobile First → JavaScript/SwiperJS**
+**HTML → CSS → Responsividade → Mobile First → SwiperJS**
 
 ---
 
@@ -75,3 +85,4 @@ Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
 ---
 
 ⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!
+
