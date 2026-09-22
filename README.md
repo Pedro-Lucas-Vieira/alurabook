@@ -1,12 +1,6 @@
 # 📚 AluraBooks
 
 <p align="center">
-  <img src="https://imgur.com/Hy6t2jH.png" alt="AluraBooks - HTML e CSS: responsividade com Mobile First">
-</p>
-
-<hr>
-
-<p align="center">
   <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo AluraBooks">
 </p>
 
