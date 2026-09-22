@@ -44,7 +44,7 @@ Durante o desenvolvimento, foram trabalhados conceitos como:
 
 O projeto está disponível online:
 
-🔗 **[Acessar AluraBooks](COLE_AQUI_O_LINK_DO_DEPLOY)**
+🔗 **[Acessar AluraBooks](https://pedro-lucas-vieira.github.io/alurabook/)**
 
 > 💡 Substitua `COLE_AQUI_O_LINK_DO_DEPLOY` pelo endereço do seu projeto publicado.
 
