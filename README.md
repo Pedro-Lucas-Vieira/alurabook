@@ -1,15 +1,77 @@
+# 📚 AluraBooks
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+<p align="center">
+  <img src="https://imgur.com/Hy6t2jH.png" alt="AluraBooks - HTML e CSS: responsividade com Mobile First">
+</p>
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+<p align="center">
+  <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo AluraBooks">
+</p>
 
-## Tecnologias
-* HTML
-* CSS
-* SwiperJS
+<p align="center">
+  Projeto de uma página de e-commerce para a <strong>AluraBooks</strong>, uma livraria online voltada para livros sobre tecnologia e programação.
+</p>
 
-## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+---
+
+## 📖 Sobre o projeto
+
+O **AluraBooks** é um projeto desenvolvido com foco no aprendizado de **HTML e CSS**, principalmente na criação de páginas responsivas utilizando a abordagem **Mobile First**.
+
+Durante o desenvolvimento, foram trabalhados conceitos como:
+
+* Estruturação de páginas com HTML;
+* Estilização utilizando CSS;
+* Responsividade para diferentes tamanhos de tela;
+* Abordagem Mobile First;
+* Criação de componentes visuais;
+* Utilização de carrossel de livros com SwiperJS;
+* Organização de código e arquivos.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+* **HTML5**
+* **CSS3**
+* **SwiperJS**
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido utilizando a abordagem **Mobile First**, permitindo que a interface se adapte a diferentes dispositivos, como:
+
+* 📱 Celulares
+* 📱 Tablets
+* 💻 Computadores
+
+---
+
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="https://imgur.com/6GsjQvJ.png" alt="Screenshot da tela inicial do AluraBooks">
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido como parte dos estudos de **desenvolvimento web**, com o objetivo de praticar:
+
+**HTML → CSS → Responsividade → Mobile First → JavaScript/SwiperJS**
+
+---
+
+## 👨‍💻 Autor
+
+**Lucas Santos**
+
+Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
+
+---
+
+⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!
