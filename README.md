@@ -72,7 +72,7 @@ Este projeto foi desenvolvido como parte dos estudos de **desenvolvimento web**,
 
 ## 👨‍💻 Autor
 
-**Lucas Santos**
+**Pedro Lucas **
 
 Projeto desenvolvido para fins de estudo e prática em desenvolvimento web.
 
